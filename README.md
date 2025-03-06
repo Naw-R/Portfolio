@@ -18,6 +18,23 @@ The **3-Variation Jam** is a creative coding challenge where I explored variatio
 
 ---
 
+### 🚗 [Project 4 - Remote-Controlled Car](#)
+This project involved designing and building a **remote-controlled car** with custom internal components and a wireless communication system. The project was divided into **hardware and software phases**, integrating an **Arduino Uno, motor drivers, and a transceiver** for seamless control. The final product was intended to be an easy-to-use remote-controlled vehicle, optimized for stability and functionality.
+
+📄 **Project Report:** Available upon request
+
+---
+
+### 📷 [Surveillance Camera System with Raspberry Pi](https://sway.cloud.microsoft/Y2y4psNV2fouvcpk?ref=Link&loc=mysways)
+This project focused on building a **real-time garden surveillance system** using **Raspberry Pi Zero** and **MotionEyeOS** to allow video monitoring without cloud storage costs. The project covered:
+- **Network security configurations** (port forwarding for secure remote access)
+- **Custom 3D-printed weatherproof casing** using FreeCAD
+- **Optimizing Raspberry Pi performance for real-time video streaming**
+
+🔗 **Live Project Details:** [Surveillance Camera System](https://sway.cloud.microsoft/Y2y4psNV2fouvcpk?ref=Link&loc=mysways)
+
+---
+
 ## 📌 About Me
 I am passionate about digital art, interactive experiences, and game design. My work focuses on blending technology with creativity to build engaging and user-friendly experiences. I enjoy experimenting with new frameworks, designing intuitive interfaces, and bringing ideas to life through code.
 
